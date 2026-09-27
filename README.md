@@ -1,2 +1,2 @@
 # Solizac-ent
-a bebsite for tech company
+a website for tech company
